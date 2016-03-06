@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Dec23Youtube
-//
-//  Created by Asuka Nakagawa on 2015-12-23.
-//  Copyright © 2015 Asuka Nakagawa. All rights reserved.
-//
 
 import UIKit
 
